@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 512a0f920c4549c6b8fa15ad0baa6cca, type: 3}
+  m_Name: Web3Config
+  m_EditorClassIdentifier: 
+  <ProjectId>k__BackingField: 9e4f1514-d754-4292-97c7-bd7efe2f791d
+  <EnableAnalytics>k__BackingField: 1
+  <ChainConfigs>k__BackingField:
+  - <ChainId>k__BackingField: 11155111
+    <Symbol>k__BackingField: ETH
+    <Chain>k__BackingField: Sepolia
+    <Network>k__BackingField: ETH
+    <Rpc>k__BackingField: https://rpc.sepolia.org
+    <Ws>k__BackingField: 
+    <BlockExplorerUrl>k__BackingField: https://sepolia.etherscan.io
