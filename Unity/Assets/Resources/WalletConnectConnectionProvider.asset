@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 582efc0fde77aab43a77ee4237ba305a, type: 3}
+  m_Name: WalletConnectConnectionProvider
+  m_EditorClassIdentifier: 
+  <ProjectId>k__BackingField: 
+  <ProjectName>k__BackingField: 
+  <AutoRenewSession>k__BackingField: 1
+  <BaseContext>k__BackingField: unity-game
+  <Metadata>k__BackingField:
+    Name: 
+    Description: 
+    Url: 
+    Icons: []
+    Redirect:
+      Native: 
+      Universal: 
+    VerifyUrl: 
+  <StoragePath>k__BackingField: wallet-connect/
+  <OverrideRegistryUri>k__BackingField: 
+  handlerPrefab: {fileID: 5250797134093199901, guid: 0c7c312ad6c521f4b8346ed8e9d7c664,
+    type: 3}
+  enabledWallets: []
+  disabledWallets: []
+  <LogLevel>k__BackingField: 1
+  <WalletLocationOption>k__BackingField: 0
+  <ConnectButtonRow>k__BackingField: {fileID: 8599114313589093787, guid: 4591cfadb2bf9824da90ebf4005728a8,
+    type: 3}
